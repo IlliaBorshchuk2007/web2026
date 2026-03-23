@@ -48,4 +48,4 @@ let pos = 0;
 function move(step) {
     pos += step;
     document.getElementById("elid").style.left = pos + "px";
-}git init
+}
